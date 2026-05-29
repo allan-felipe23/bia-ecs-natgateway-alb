@@ -150,17 +150,13 @@ Abaixo estão as principais evidências da execução bem-sucedida da implementa
 <br>
 
 ### 1. Application Load Balancer (ALB)
-![Application Load Balancer](./docs/prints/alb-placeholder.png) <!-- Print do ALB (DNS Name, estado Active e subnets públicas) -->
+<img width="1920" height="995" alt="8-configurações do ALB, evidenciando o DNS Name, o estado Active e que ele está associado às subnets públicas" src="https://github.com/user-attachments/assets/740dd6b5-08d3-4103-a4f2-a99d172fe699" />
 
 ### 2. Cluster ECS e Tasks em Execução
-![Cluster ECS - Tasks RUNNING](./docs/prints/ecs-tasks-placeholder.png) <!-- Print da aba Tasks com estado RUNNING e infraestrutura -->
-
-### 3. Acesso Final via DNS do Load Balancer
-![Acesso Final ALB](./docs/prints/final-access-placeholder.png) <!-- Print do navegador acessando a aplicação via DNS do ALB conectada ao banco -->
+<img width="1920" height="995" alt="14-Tasks mostrando que as Tasks estão no estado RUNNING" src="https://github.com/user-attachments/assets/1ee02e0c-302c-49a9-939a-cddde53165ce" />
 
 ### 4. Aplicação Funcionando
-![Tela Principal da BIA](./docs/prints/home-placeholder.png) <!-- Substitua pelo print da aplicação -->
-
+<img width="1920" height="1041" alt="15-aplicação BIA conectada e rodando, evidenciando dados sendo lidos do banco de dados" src="https://github.com/user-attachments/assets/2cd10edf-0474-4e81-b133-9c73aaf89b1e" />
 </details>
 
 ---
