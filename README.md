@@ -114,4 +114,4 @@ Abaixo estão os espaços para documentar e provar a execução bem-sucedida das
 Este laboratório e a implantação da arquitetura na nuvem foram executados e documentados por:
 
 - **Artigo Completo (Passo a Passo no Medium):** [Projeto Prático: Rodando uma aplicação no ECS com Subnet Privada, NAT Gateway e ALB](https://medium.com/@alanborges195/projeto-prático-rodando-uma-aplicação-no-ecs-com-subnet-privada-nat-gateway-e-alb-8807dc2f629b)
-- **LinkedIn:** [Alan Borges](https://www.linkedin.com/in/alanborges195/)
+- **LinkedIn:** [Allan Borges](https://www.linkedin.com/in/allan-fborges/)
